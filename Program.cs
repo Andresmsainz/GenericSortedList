@@ -15,17 +15,28 @@ namespace GenericSortedList
             Console.WriteLine("In Creating");
 
             SortedList list = new SortedList(); // non generic sorted list
-            SortedList<int, string> phonebook = new SortedList<int, string>(); // generic sorted list
+            SortedList<string, string> phonebook = new SortedList<string, string>(); // generic sorted list
 
             Console.WriteLine("------------");
 
             // Adding
             Console.WriteLine("In Adding");
 
+            phonebook.Add("Jack", "(845)222-3492");
+            phonebook.Add("Jill", "(305)333-7432");
+            phonebook.Add("Willie", "(212)444-4689");
+            phonebook.Add("Frankie", "(961)555-9238");
+
+            
             Console.WriteLine("------------");
 
             // Displaying
             Console.WriteLine("In Displaying");
+
+            foreach (var item in phonebook)
+            {
+                Console.WriteLine("Current Item = " + item.Key + " , " + item.Value);
+            }
 
             Console.WriteLine("------------");
 

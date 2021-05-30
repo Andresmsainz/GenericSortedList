@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\GenericSortedList\bin\Debug\netcoreapp3.1\GenericSortedList.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\GenericSortedList\bin\Debug\netcoreapp3.1\GenericSortedList.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\GenericSortedList\bin\Debug\netcoreapp3.1\GenericSortedList.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\GenericSortedList\bin\Debug\netcoreapp3.1\GenericSortedList.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\GenericSortedList\bin\Debug\netcoreapp3.1\GenericSortedList.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\GenericSortedList\bin\Debug\netcoreapp3.1\GenericSortedList.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\GenericSortedList\obj\Debug\netcoreapp3.1\GenericSortedList.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\GenericSortedList\obj\Debug\netcoreapp3.1\GenericSortedList.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\GenericSortedList\obj\Debug\netcoreapp3.1\GenericSortedList.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\GenericSortedList\obj\Debug\netcoreapp3.1\GenericSortedList.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\GenericSortedList\obj\Debug\netcoreapp3.1\GenericSortedList.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\GenericSortedList\obj\Debug\netcoreapp3.1\GenericSortedList.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\GenericSortedList\obj\Debug\netcoreapp3.1\GenericSortedList.genruntimeconfig.cache
